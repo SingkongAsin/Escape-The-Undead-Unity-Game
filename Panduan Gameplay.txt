@@ -1,0 +1,6 @@
+Tembak - Klik Kiri
+Lompat - Space
+Dash - Klik Kanan
+Double Jump - Space 2x
+Jalan Ke Kiri - A
+Jalan Ke Kanan - D
